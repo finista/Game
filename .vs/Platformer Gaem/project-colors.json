@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95bf21eb-e7ca-40a6-942b-9f6607a4ecf5": {
+      "ProjectGuid": "95bf21eb-e7ca-40a6-942b-9f6607a4ecf5",
+      "DisplayName": "Platformer Gaem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

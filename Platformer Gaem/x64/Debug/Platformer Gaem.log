@@ -1,0 +1,9 @@
+﻿  Player.cpp
+c:\users\sonne\source\repos\platformer gaem\platformer gaem\player.cpp(49): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sonne\source\repos\platformer gaem\platformer gaem\player.cpp(52): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\sonne\source\repos\platformer gaem\platformer gaem\player.cpp(67): warning C4305: +=: усечение из "double" в "float"
+  Platformer Gaem.vcxproj -> C:\Users\Sonne\source\repos\Platformer Gaem\x64\Debug\Platformer Gaem.exe
